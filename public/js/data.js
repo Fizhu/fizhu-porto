@@ -164,9 +164,9 @@ const data = {
         },
         {
             name:       'Codecademy',
-            shortlink:  'codecademy.com/megapandalord',
+            shortlink:  '',
             fullLink:   '',
-            img:        '',
+            img:        'https://louisiaegerv.github.io/resume/assets/img/cc2w.png',
             fontAwesome: false
         },
         {
