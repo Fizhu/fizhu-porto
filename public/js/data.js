@@ -24,15 +24,15 @@ const data = {
         ]
     },
     jumbo: {
-        text: `Hi, Welcome to my porto !.`,
+        text: `Hi, Welcome to my porto !`,
         buttonText: `Yes, I'm available for hire.`,
         buttonLink: `#contact`,
         scrollDownLink: '#about',
-        img: `img/desk4.jpg`
+        img: `img/fizhu.jpg`
     },
     about: {
         img: `img/me.jpg`,
-        aboutText: `Passionate programmer pursuing a career path in web/app development and mixed reality technologies. I bring a strong background in UX and attention to detail that will increase engagement between your company and its target audience.`
+        aboutText: `Being Android Developer Soon !.`
     },
     portfolio: {
         backgroundImg: `img/zipper.png`,
@@ -143,36 +143,36 @@ const data = {
     social: [
         {
             name: 'twitter',
-            shortlink: 'twitter.com/theCodeslayer/',
-            fullLink: 'https://twitter.com/theCodeslayer/',
+            shortlink: '',
+            fullLink: '',
             img: '',
             fontAwesome: true
         },
         {
             name: 'github',
-            shortlink: 'github.com/louisiaegerv/',
-            fullLink: 'https://github.com/louisiaegerv/',
+            shortlink: 'github.com/fizhu/',
+            fullLink: 'https://github.com/fizhu/',
             img: '',
             fontAwesome: true
         },
         {
             name:       'linkedin',
-            shortlink:  'linkedin.com/in/louislinkedin',
-            fullLink:   'https://www.linkedin.com/in/louislinkedin',
+            shortlink:  'linkedin.com/in/hafizhanbiya/',
+            fullLink:   'https://www.linkedin.com/in/hafizhanbiya/',
             img:        '',
             fontAwesome: true
         },
         {
             name:       'Codecademy',
             shortlink:  'codecademy.com/megapandalord',
-            fullLink:   'https://www.codecademy.com/megapandalord',
-            img:        'https://louisiaegerv.github.io/resume/assets/img/cc2w.png',
+            fullLink:   '',
+            img:        '',
             fontAwesome: false
         },
         {
             name:       'Team Treehouse',
-            shortlink:  'teamtreehouse.com/louisiaeger',
-            fullLink:   'https://teamtreehouse.com/louisiaeger',
+            shortlink:  '',
+            fullLink:   '',
             img:        'https://raw.githubusercontent.com/louisiaegerv/Project-Images/master/treehouse.png',
             fontAwesome: false
         }
