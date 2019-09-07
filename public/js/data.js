@@ -28,11 +28,11 @@ const data = {
         buttonText: `Yes, I'm available for hire.`,
         buttonLink: `#contact`,
         scrollDownLink: '#about',
-        img: `img/fizhu.jpg`
+        img: `img/desk4.jpg`
     },
     about: {
-        img: `img/me.jpg`,
-        aboutText: `Being Android Developer Soon !.`
+        img: `img/fizhu.jpg`,
+        aboutText: `Being Android Developer Soon !`
     },
     portfolio: {
         backgroundImg: `img/zipper.png`,
