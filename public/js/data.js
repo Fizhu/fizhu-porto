@@ -1,7 +1,7 @@
 const data = {
     nav: {
         title: {
-            text: `Louis Iaeger V`,
+            text: `M. Hafizh Anbiya`,
             link: `#app`
         },
         navLinks: [
@@ -24,7 +24,7 @@ const data = {
         ]
     },
     jumbo: {
-        text: `Hi, I'm Louis. I design & build websites.`,
+        text: `Hi, Welcome to my porto !.`,
         buttonText: `Yes, I'm available for hire.`,
         buttonLink: `#contact`,
         scrollDownLink: '#about',
